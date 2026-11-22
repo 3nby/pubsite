@@ -44,7 +44,7 @@ export default function ContactPage() {
           <ul className="space-y-2">
             <li><a className="underline decoration-2 underline-offset-4" href="mailto:contactme@ghaw.net">contactme@ghaw.net</a></li>
             <li><a className="underline decoration-2 underline-offset-4" href="https://www.linkedin.com/in/grant-hawerlander/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-            <li><a className="underline decoration-2 underline-offset-4" href="https://github.com/GrantHaw" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+            <li><a className="underline decoration-2 underline-offset-4" href="https://github.com/3nby" target="_blank" rel="noopener noreferrer">GitHub</a></li>
           </ul>
         </Win>
       </aside>

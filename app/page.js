@@ -73,7 +73,7 @@ export default function Home() {
             <div className="stat"><dt>likes</dt><dd>CTFs, homelabs, retro Wii games</dd></div>
           </dl>
           <div className="flex flex-wrap gap-2 mt-4">
-            <a className="gel silver" href="https://github.com/GrantHaw" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a className="gel silver" href="https://github.com/3nby" target="_blank" rel="noopener noreferrer">GitHub</a>
             <a className="gel silver" href="https://www.linkedin.com/in/grant-hawerlander/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
         </Win>

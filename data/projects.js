@@ -20,17 +20,17 @@ const projects = [
   {
     id: 'whisper', title: 'Whisper AI Glasses', img: '/projects/workshop.jpeg', alt: 'Demoing the Whisper AI glasses at ImagineRIT',
     desc: 'Real-time speech-to-text transcription glasses for accessibility, shown at ImagineRIT.',
-    link: 'https://github.com/GrantHaw/Live-Transcription',
+    link: 'https://github.com/3nby/Live-Transcription',
   },
   {
     id: 'teaching', title: 'Intro Programming and Ethical Hacking', img: '/projects/coding-teaching.jpeg', alt: 'Teaching a coding workshop',
     desc: 'Taught Python and coding fundamentals through workshops and lectures, and helped beginner English students build text-based software of their choosing.',
-    link: 'https://github.com/GrantHaw/VAISPhishingCampaign',
+    link: 'https://github.com/3nby/VAISPhishingCampaign',
   },
   {
     id: 'azure', title: 'Azure Development and Security', img: '/projects/azure.jpg', alt: 'Phishing awareness demo page',
     desc: 'Deployed secure web apps on Azure and tuned network security groups for real-world threat models. Published a phishing awareness site that tracked clicks and IP addresses.',
-    link: 'https://github.com/GrantHaw/VAISPhishingCampaign',
+    link: 'https://github.com/3nby/VAISPhishingCampaign',
   },
 ]
 export default projects

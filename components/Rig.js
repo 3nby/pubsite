@@ -24,7 +24,7 @@ export default function Rig({ folders, children }) {
   else if (p.startsWith('/projects')) sub = [{ h: '/projects#mallard', t: 'mallard' }, { h: '/projects#homelab', t: 'homelab' }, { h: '/projects#ctf', t: 'ctfs' }, { h: '/projects#tools', t: 'tools' }]
   else if (p.startsWith('/blog')) sub = [{ h: '/blog', t: 'all posts' }].concat((folders || []).slice(0, 5).map((f) => ({ h: '/blog/' + f.slug, t: f.slug })))
   else if (p.startsWith('/music')) sub = [{ h: '/music#player', t: 'now playing' }, { h: '/music#playlist', t: 'playlist' }, { h: '/music#rotation', t: 'current rotation' }]
-  else if (p.startsWith('/contact')) sub = [{ h: 'mailto:contactme@ghaw.net', t: 'email' }, { h: 'https://www.linkedin.com/in/grant-hawerlander/', t: 'linkedin' }, { h: 'https://github.com/GrantHaw', t: 'github' }]
+  else if (p.startsWith('/contact')) sub = [{ h: 'mailto:contactme@ghaw.net', t: 'email' }, { h: 'https://www.linkedin.com/in/grant-hawerlander/', t: 'linkedin' }, { h: 'https://github.com/3nby', t: 'github' }]
 
   return (
     <div className="rig">

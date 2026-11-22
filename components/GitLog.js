@@ -25,7 +25,7 @@ export default async function GitLog({ id }) {
       ) : (
         <p className="dim mt-1">fatal: couldn&apos;t reach GitHub right now. try again in a bit.</p>
       )}
-      <p className="mt-2"><a href="https://github.com/GrantHaw" target="_blank" rel="noopener noreferrer" className="g underline">github.com/GrantHaw</a></p>
+      <p className="mt-2"><a href="https://github.com/3nby" target="_blank" rel="noopener noreferrer" className="g underline">github.com/3nby</a></p>
     </Win>
   )
 }
